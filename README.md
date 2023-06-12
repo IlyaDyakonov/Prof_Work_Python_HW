@@ -15,4 +15,7 @@ Home Work №3. Веб-скрапинг.
 Home Work №4. Iterators. Generators. Yield.
 
 ### HW5
-Home Work №5. 
+Home Work №5. Decorators.
+
+### HW6
+Home Work №6. Разборка тестов.
