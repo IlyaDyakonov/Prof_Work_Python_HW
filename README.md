@@ -19,3 +19,6 @@ Home Work №5. Decorators.
 
 ### HW6
 Home Work №6. Разборка тестов.
+
+### HW7
+Home Work №7. Подготовка к собеседованиям.
